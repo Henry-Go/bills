@@ -4,6 +4,9 @@ This is cli payments management app
 
 ## TODO
 
+- [ ] Check *SQLite*
+- [ ] Check [gspread](https://github.com/burnash/gspread)
+- [ ] Check [beancount](https://github.com/jwiegley/beancount)
 - [ ] Create a `setup.py` file
 - [ ] Create a venv enviroment
 - [x] Create a `.gitignore` file
