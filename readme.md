@@ -14,6 +14,7 @@ This is cli payments management app
 
 ## Useful links:
 
+- [translations in decoding, example `Object` -	`dict`](https://docs.python.org/2/library/json.html#encoders-and-decoders)
 - [Encrypt and Decrypt files with gpg](http://www.saltycrane.com/blog/2011/10/python-gnupg-gpg-example/)
 - [python-gnupg](https://pythonhosted.org/python-gnupg/)
 - [encrypt decrypt files example in python](https://bitbucket.org/brendanlong/python-encryption/src/e074c48799c41f3f048f9d17b61e1b572c31432a/encryption.py?at=master)
